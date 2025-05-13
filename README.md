@@ -1,2 +1,2 @@
 # devops-agent-app
-Devops Agent
+Devops AI Agent
