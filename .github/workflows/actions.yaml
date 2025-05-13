@@ -19,4 +19,4 @@ jobs:
     steps:
       - name: Echo
         run: |
-          echo "✅ Workflow triggered"
+          echo "✅ Workflow triggered through agent"
