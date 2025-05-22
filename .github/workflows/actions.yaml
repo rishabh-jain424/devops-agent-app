@@ -17,3 +17,5 @@ jobs:
       - name: Echo
         run: |
           echo "✅ Workflow triggered through agent"
+          sleep 15s
+          echo "✅ Workflow completed through agent"
